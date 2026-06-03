@@ -16,8 +16,10 @@ I am an Electronics & Communication Engineering graduate passionate about both s
 
 Programming Languages
 
+- C++
+- C
 - Python
-- JavaScript
+- JavaScript 
 
 Web Technologies
 
@@ -38,6 +40,8 @@ Tools
 
 - Git
 - GitHub
+- Xilinx Vivado
+- VS Code
 
 📂 Featured Projects
 
